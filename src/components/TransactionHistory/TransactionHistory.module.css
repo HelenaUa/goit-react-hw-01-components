@@ -1,0 +1,27 @@
+.transaction_history {
+  border: 1px solid gray;
+  text-align: center;
+  font-size: 16px;
+  width: 600px;
+}
+
+thead {
+  background-color: aquamarine;
+  color: white;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+th {
+  border: 1px solid gray;
+  font-size: 16px;
+}
+
+tr {
+  border: 1px solid gray;
+  font-size: 16px;
+}
+
+td {
+  border: 1px solid gray;
+}

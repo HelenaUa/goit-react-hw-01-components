@@ -27,6 +27,14 @@
   height: 20px;
 }
 
+.true {
+  background-color: green;
+}
+
+.false {
+  background-color: red;
+}
+
 .avatar {
   display: flex;
   width: 80px;
